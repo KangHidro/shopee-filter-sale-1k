@@ -2,7 +2,7 @@
 
 ## Tại sao lại có cái này?
 
-Đôi khi bạn sẽ nhận được voucher freeship đơn 0đ của shopee, và phí ship chỉ tối ưu khi bạn mua những sản phẩm trong cùng tỉnh thành, vậy nên script này ra đời để lọc ra các sản phẩm trong tỉnh thành bạn chọn để xem và lựa cho nhanh, đỡ mất thời gian lướt 😂
+Đôi khi bạn sẽ nhận được (hoặc săn được) voucher freeship đơn 0đ của shopee (10k hoặc 25k), và phí ship chỉ rẻ nhất khi bạn mua những sản phẩm trong <ins>**cùng tỉnh thành**</ins> hoặc <ins>**từ nước ngoài**</ins>, vậy nên script này ra đời để lọc ra các sản phẩm đó để lựa cho nhanh, đỡ mất thời gian lướt rồi coi phí ship 😂
 
 ## Không cần đăng nhập!
 

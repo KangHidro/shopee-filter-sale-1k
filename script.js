@@ -64,7 +64,7 @@ fetch("https://shopee.vn/api/v2/flash_sale/get_all_itemids?need_personalize=true
     "x-requested-with": "XMLHttpRequest",
     "x-shopee-language": "vi"
   },
-  "referrer": "https://shopee.vn/flash_sale?categoryId=12&promotionId="+promoId,
+  "referrer": "https://shopee.vn/flash_sale?categoryId="+catId+"&promotionId="+promoId,
   "referrerPolicy": "no-referrer-when-downgrade",
   "body": null,
   "method": "GET",

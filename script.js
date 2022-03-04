@@ -74,7 +74,7 @@ fetch("https://shopee.vn/api/v2/flash_sale/get_all_itemids?need_personalize=true
 .then(res => res.json())
 .then(res =>
 res.data.item_brief_list
-.filter(x => x.catid === 12)
+.filter(x => x.catid === catId)
 .map(x => x.itemid)
 .forEach(id => getInfo(id))
 );

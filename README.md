@@ -9,11 +9,11 @@
 ## Hướng dẫn sử dụng
 
 1. Truy cập trang Flash sale: https://shopee.vn/flash_sale
-2. Click chọn khung giờ và chọn mục "Đồng giá 1k" (Hoặc bất kỳ mục nào bạn muốn lọc 😂  nó chỉ khác nhau cái `categoryId` thui)
+2. Click chọn khung giờ và chọn mục "Đồng giá 1k" (Hoặc bất kỳ mục nào bạn muốn lọc 😂 nó chỉ khác nhau cái `categoryId` và `promotionId` thui)
 3. Nhìn trên thanh địa chỉ sẽ có dạng `https://shopee.vn/flash_sale?categoryId=12&promotionId=2039645794`, hãy copy `categoryId` và `promotionId`
-4. Tìm tên tỉnh thành của bạn theo danh sách bên dưới cùng, copy đúng kể cả dấu chấm phẩy nhé!
-5. Tại trang web shopee bấm F12 và mở Console
-6. Copy và Paste script vào Console, khoan Enter vội, hãy kiểm tra và thay lại `categoryId` và `promotionId` cũng như tên tỉnh thành mà bạn muốn lọc
+4. Tìm tên tỉnh thành của bạn theo danh sách bên dưới cùng, copy đúng kể cả dấu chấm phẩy nhé! Đây sẽ là `filterLocation`
+5. Quay lại trang web shopee bấm F12 và mở Console
+6. Copy và Paste script vào Console, khoan Enter vội, hãy thay lại `categoryId`, `promotionId` và `filterLocation`
 7. Chờ tầm 3-5s để nó load
 8. Paste dòng này trực tiếp vào Console: `copy(itemInfo.join("\n\n"))`
 9. Mở notepad lên và Paste thành quả

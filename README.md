@@ -20,6 +20,7 @@
 
 ## Danh sách tỉnh thành
 
+- **TỪ NƯỚC NGOÀI**: để trống `filterLocation = '';`
 - An Giang
 - Bà Rịa - Vũng Tàu
 - Bình Dương

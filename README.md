@@ -17,6 +17,7 @@
 7. Chờ tầm 3-5s để nó load
 8. Paste dòng này trực tiếp vào Console: `copy(itemInfo.join("\n\n"))`
 9. Mở notepad lên và Paste thành quả
+10. Nếu paste bước 9 không ra gì thì chắc không có sale nào rồi, bạn thử lại với khung giờ khác xem sao nhé 😂
 
 ## Danh sách tỉnh thành
 

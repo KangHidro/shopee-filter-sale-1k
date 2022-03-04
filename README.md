@@ -9,7 +9,7 @@
 ## Hướng dẫn sử dụng
 
 1. Truy cập trang Flash sale: https://shopee.vn/flash_sale
-2. Click chọn mục "Đồng giá 1k"
+2. Click chọn khung giờ và chọn mục "Đồng giá 1k"
 3. Nhìn trên thanh địa chỉ sẽ có dạng `https://shopee.vn/flash_sale?categoryId=12&promotionId=2039645794`, hãy copy `categoryId` và `promotionId`
 4. Tìm tên tỉnh thành của bạn theo danh sách bên dưới cùng, copy đúng kể cả dấu chấm phẩy nhé!
 5. Tại trang web shopee bấm F12 và mở Console
